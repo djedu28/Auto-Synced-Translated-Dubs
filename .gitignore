@@ -1,0 +1,9 @@
+
+## Ignorando os arquivos da dependência: rubberband
+# Este soft (rubberband) necessita ser baixado por fora 
+# e adicionado na pasta raiz do projeto
+# O Download é realizado no link:
+# https://breakfastquay.com/rubberband/
+rubberband-r3.exe
+rubberband.exe
+sndfile.dll
