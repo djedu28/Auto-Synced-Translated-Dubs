@@ -1,3 +1,6 @@
+## Ignorando ambiente virtual
+/venv/*
+
 
 ## Ignorando os arquivos da dependência: rubberband
 # Este soft (rubberband) necessita ser baixado por fora 
